@@ -1,5 +1,4 @@
 # hello-world
-Hello World repository following Github tut
 
 I know a bit of HTML, CSS, VBScript.
 I know very little SQL.
