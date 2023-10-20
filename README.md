@@ -1,6 +1,5 @@
 # hello-world
 
-I know a bit of HTML, CSS, VBScript.
-I know very little SQL.
-Took some C++ and Java in college, but I've forgotten most of it.
-Working on learning Python to rebuild my programming abilities.
+Restarting my journey to learn C++ for gameplay engineering.
+Using learncpp.com and books.
+10/19/2023
